@@ -54,8 +54,8 @@ Now visit 👉 http://localhost:3000
 
 📸 Preview
 
+<img width="1178" height="619" alt="image" src="https://github.com/user-attachments/assets/4012389b-d05b-46f6-aa6a-91099d41963b" />
 
-<img width="1157" height="616" alt="image" src="https://github.com/user-attachments/assets/7b9cbae9-0178-44cc-b1d1-25ee2cfa685c" />
 
 
 🤝 Contributing
