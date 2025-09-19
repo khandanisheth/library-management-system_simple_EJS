@@ -55,7 +55,8 @@ Now visit 👉 http://localhost:3000
 📸 Preview
 
 
-(Replace with your actual screenshot)
+<img width="1157" height="616" alt="image" src="https://github.com/user-attachments/assets/7b9cbae9-0178-44cc-b1d1-25ee2cfa685c" />
+
 
 🤝 Contributing
 
